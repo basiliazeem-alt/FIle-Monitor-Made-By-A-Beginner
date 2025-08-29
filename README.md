@@ -19,6 +19,6 @@ It runs in the system tray with a simple icon, making it easy to keep track of c
 By default, the script is set to watch:
 ```python
 WATCHED_FOLDER = [
-    r"C:\Users\user\Desktop\Test Folder",
-    r"C:\Users\user\Desktop\Test Folder-2"
+    r"C:\Users\user\Desktop\Sample Folder_1",
+    r"C:\Users\user\Desktop\Sample Folder_2"
 ]
